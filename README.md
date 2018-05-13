@@ -26,3 +26,17 @@
 13:Resource Files
 
 14:QLabel and QT Designer
+
+15:QPushButton
+
+16:QLineEdit
+
+17:QCheckBox
+
+18:QRadioButton
+
+19:QComboBox
+
+20:QListWidget
+
+21:QTreeWidget
