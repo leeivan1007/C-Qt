@@ -40,3 +40,21 @@
 20:QListWidget
 
 21:QTreeWidget
+
+22:QTreeWidget Continued
+
+23:QActions
+
+24:QSlider and QProgressBar
+
+25:QStatusBar
+
+26:QMessageBox
+
+27:QTimer
+
+28:QThread part 1 creating a thread
+
+29:QThread part 2 the Priority
+
+30:QThread part 3 the QMutex
